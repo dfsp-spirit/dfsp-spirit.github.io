@@ -22,7 +22,7 @@ title: Tim Schäfer
 email: ts+code@rcmd.org
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website of Dr. Tim Schäfer. I am a bioinformatician and research software
-  engineer.
+  engineer based in Frankfurt am Main, Germany.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dfsp-spirit.github.io"
 github_username: dfsp-spirit
