@@ -6,7 +6,7 @@ permalink: /publications
 
 Here are my records on [ORCID](https://orcid.org/0000-0002-3683-8070) and [Google Scholar](https://scholar.google.de/citations?user=VNkzzhgAAAAJ), which may be more up-to-date than this list.
 
-# Journal Articles (Peer reviewed)
+## Journal Articles (Peer reviewed)
 
 * Bienek, V., Bletsch, A., Mann, C., Schaefer, T., ..., Ecker, C. (2021) Longitudinal Changes in Cortical Thickness in Adolescents with Autism Spectrum Disorder and Their Association with Restricted and Repetitive Behaviors. Genes 2021, 12(12). doi.org/10.3390/genes12122024
 * Ecker, C., Pretzsch, C. M., Bletsch, A., Mann, C., Schaefer, T., Ambrosino, S., ... & Murphy, D. G. (2021). Interindividual Differences in Cortical Thickness and Their Genomic Underpinnings in Autism Spectrum Disorder. American Journal of Psychiatry, appi-ajp. doi.org/10.1176/appi.ajp.2021.20050630
@@ -22,7 +22,7 @@ Here are my records on [ORCID](https://orcid.org/0000-0002-3683-8070) and [Googl
 
 
 
-# Preprints and Other Articles (Non-Peer Reviewed)
+## Preprints and Other Articles (Non-Peer Reviewed)
 
 * Viola Hollestein, Geert Poelmans, Natalie J Forde, Christian F Beckmann, Christine Ecker, Caroline Mann, Tim Schäfer,..., Jilly Naaijen. (2021) Excitatory/inhibitory imbalance in autism: the role of glutamate and GABA gene-sets in symptoms and cortical brain structure Preprint at biorxiv
 * Tim Schäfer and Christine Ecker. (2020) fsbrain: an R package for the visualization of structural neuroimaging data. Preprint at biorxiv
@@ -31,7 +31,7 @@ Here are my records on [ORCID](https://orcid.org/0000-0002-3683-8070) and [Googl
 
 
 
-# Conference Talks
+## Conference Talks
 
 * Tim Schäfer, Caroline Mann, Anke Bletsch, Eva Loth, Declan Murphy, Jan Buitelaar, Tony Charman, Tobias Banaschewski, Simon Baron-Cohen, Sven Bölte, Sarah Durston, the EU-AIMS LEAP consortium and Christine Ecker. Atypical Scaling Between the Inner and Outer Curvature of the Brain in Autism Spectrum Disorder. INSAR Annual Meeting 2019, Montreal, Canada, May 1-4 (2019).
 * Tim Schäfer, Patrick May, and Ina Koch. Computation and Visualization of Protein Topology Graphs including ligand information. Talk at German Conference on Bioinformatics 2012, Jena, Germany [slides @figshare, @f1000]
@@ -40,7 +40,7 @@ Here are my records on [ORCID](https://orcid.org/0000-0002-3683-8070) and [Googl
 
 
 
-# Posters and Conferences
+## Posters and Conferences
 
 * Tim Schäfer and Christine Ecker. Managing and Visualizing Freesurfer Neuroimaging Data in R – the Freesurferformats and Fsbrain Packages. INSAR 2020 Annual Meeting, (virtual), June 3 (2020). [Abstract] [ePoster]
 * Tim Schäfer, Caroline Mann, Anke Bletsch, Eva Loth, Declan Murphy, Jan Buitelaar, Tony Charman, Tobias Banaschewski, Simon Baron-Cohen, Sven Bölte, Sarah Durston, the EU-AIMS LEAP consortium and Christine Ecker. Atypical Scaling Between the Inner and Outer Curvature of the Brain in Autism Spectrum Disorder. OHBM 2019, Rome, Italy, June 9-13 (2019).
