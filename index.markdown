@@ -5,6 +5,6 @@
 layout: home
 ---
 
-# Website of ts
+# Home
 
-Welcome!
+This is the professional website of Tim Schäfer.
