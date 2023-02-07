@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# This Website is currently work in progress. Please ignore it. My website can be found at [rcmd.org/ts/](https://rcmd.org/ts/).
+Note: This website version is currently work in progress. Please ignore it. My website can be found at [rcmd.org/ts/](https://rcmd.org/ts/).
 
 This is the professional website of Tim Schäfer. I am a bioinformatician and ex-neuroscientist. I currently work as a research software engineer in the Fries Lab at ESI.
 
