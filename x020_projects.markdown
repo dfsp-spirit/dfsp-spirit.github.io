@@ -45,5 +45,6 @@ VPLG is free software and available from the [PTGL project website at GitHub](ht
 # Education
 
 * PhD (Dr. rer. nat.), Bioinformatics
-- Supervisor: Prof. Dr. Ina Koch
-- Department of Molecular Bioinformatics, Goethe University Frankfurt am Main, Germany
+  - Supervisor: Prof. Dr. Ina Koch
+  - Department of Molecular Bioinformatics, Goethe University Frankfurt am Main, Germany
+  - Thesis: *Application of graph theory to the topologies of proteins and Hodgkin lymphoma.* Goethe University Frankfurt, Germany, 2016.
