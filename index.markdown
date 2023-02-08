@@ -9,7 +9,7 @@ layout: home
 
 This is the professional website of Tim Schäfer. I am a bioinformatician and neuroscientist. I currently work as a research software engineer in the [Fries Lab at ESI](https://www.esi-frankfurt.de/people/pascalfries/).
 
-<img style="float: right;" src="assets/img/ts.jpg" alt="Tim Schäfer" width="20%">
+<img style="float: right; padding: 25px; " src="assets/img/ts.jpg" alt="Tim Schäfer" width="20%">
 
 I have contributed to a range of open source projects and I am the author and maintainer of some neuroimaging software tools, including the [freesurferformats](https://github.com/dfsp-spirit/freesurferformats) and [fsbrain](https://github.com/dfsp-spirit/fsbrain) packages for R, and libraries providing access to neuroimaging data for C++, Julia, Rust and Python.
 
