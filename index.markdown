@@ -1,9 +1,7 @@
 ---
-title: "Home"
+title: "Welcome"
 layout: home
 ---
-
-## Welcome
 
 *This website version is currently work in progress. Please ignore it. My website can be found at [rcmd.org/ts/](https://rcmd.org/ts/)*.
 
