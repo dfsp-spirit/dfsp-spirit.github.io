@@ -61,8 +61,7 @@ From 3D atom data to protein graph.* The 3D atom coordinates and the secondary s
 
 # Education
 
-* PhD (Dr. rer. nat.), Bioinformatics
+* PhD (Dr. rer. nat.), Bioinformatics, Summa cum laude
   - Supervisor: Prof. Dr. Ina Koch
   - Department of Molecular Bioinformatics, Goethe University Frankfurt am Main, Germany
   - Thesis: *Application of graph theory to the topologies of proteins and Hodgkin lymphoma.* Goethe University Frankfurt, Germany, 2016.
-  - Summa cum laude
