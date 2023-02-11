@@ -23,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website of Dr. Tim Schäfer. I am a bioinformatician and research software
   engineer based in Frankfurt am Main, Germany.
 baseurl: "" # the subpath of your site, e.g. /blog
+email: "ts+code@rcmd.org"
 url: "dfsp-spirit.github.io"
 github_username: dfsp-spirit
 orcid_username: 0000-0002-3683-8070
