@@ -10,7 +10,7 @@ I am currently a scientific software developer in the [lab of Prof. Dr. Pascal F
 
 <img style="" src="assets/img/syncopy_signals.png" alt="Electrophysiology data in Syncopy" width="70%">
 <figcaption>
-Visualization of electrophysiological data, created with Syncopy.
+Figure 1: Visualization of electrophysiological data, created with Syncopy.
 </figcaption>
 
 ### Ecker Lab, University Hospital Frankfurt
@@ -20,7 +20,7 @@ and Adolescent Psychiatry, Psychosomatics and Psychotherapy in the [group of Pro
 
 <img style="" src="assets/img/fsbrain_vis_overview.jpg" alt="sMRI descriptor visualization" width="70%">
 <figcaption>
-Visualiation of sMRI neuroimaging data, created with fsbrain. A Visualization of raw morphometry data (cortical thickness) from native space on the white surface of a subject. The view shows the data in tiles from 8 different angles. B Arbitrary data (p-values in this case) visualized on the regions of the Desikan atlas, using the surface of the fsaverage (standard space template) subject from FreeSurfer. The view shows the data in tiles from 4 different angles. C The regions of the Desikan atlas on the white surface of a subject. The colors were loaded from the respective annotation file.
+Figure 2: Visualiation of sMRI neuroimaging data, created with fsbrain. A Visualization of raw morphometry data (cortical thickness) from native space on the white surface of a subject. The view shows the data in tiles from 8 different angles. B Arbitrary data (p-values in this case) visualized on the regions of the Desikan atlas, using the surface of the fsaverage (standard space template) subject from FreeSurfer. The view shows the data in tiles from 4 different angles. C The regions of the Desikan atlas on the white surface of a subject. The colors were loaded from the respective annotation file.
 </figcaption>
 
 ### Molecular Health GmbH, Heidelberg
@@ -45,7 +45,7 @@ We used graphs to model and compare spatial cell distributions in different Hodg
 
 <img style="" src="assets/img/cellgraph.jpg" alt="Cellgraph" width="70%">
 <figcaption>
-Part of a whole slide image from a Hodgkin lymphoma case. Cell nuclei are stained in blue, and CD30+ cells in red. A cell graph is displayed as an overlay. Each vertex represents a cell detected by our imaging pipeline. Edges are added between cells which are close to each other. The graphs can be used to quantify clustering and to compare cell distributions.
+Figure 3: Part of a whole slide image from a Hodgkin lymphoma case. Cell nuclei are stained in blue, and CD30+ cells in red. A cell graph is displayed as an overlay. Each vertex represents a cell detected by our imaging pipeline. Edges are added between cells which are close to each other. The graphs can be used to quantify clustering and to compare cell distributions.
 </figcaption>
 
 ## Structural biology: The new Protein Topology Graph Library (PTGL) webserver
@@ -56,7 +56,7 @@ VPLG is free software and available from the [PTGL project website at GitHub](ht
 
 <img style="" src="assets/img/ptgl_overview.png" alt="PTGL Protein graph creation" width="70%">
 <figcaption>
-From 3D atom data to protein graph.* The 3D atom coordinates and the secondary structure assignments are used to compute contacts between secondary structure elements (SSEs). In the final cell graph, each vertex represents an SSE, and edges model spatial contacts and relative spatial orientations between SSEs.
+Figure 4: From 3D atom data to protein graph.* The 3D atom coordinates and the secondary structure assignments are used to compute contacts between secondary structure elements (SSEs). In the final cell graph, each vertex represents an SSE, and edges model spatial contacts and relative spatial orientations between SSEs.
 </figcaption>
 
 # Education
