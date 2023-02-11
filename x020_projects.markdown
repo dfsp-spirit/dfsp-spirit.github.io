@@ -56,7 +56,7 @@ VPLG is free software and available from the [PTGL project website at GitHub](ht
 
 <img style="" src="assets/img/ptgl_overview.png" alt="PTGL Protein graph creation" width="70%">
 <figcaption>
-Figure 4: From 3D atom data to protein graph.* The 3D atom coordinates and the secondary structure assignments are used to compute contacts between secondary structure elements (SSEs). In the final cell graph, each vertex represents an SSE, and edges model spatial contacts and relative spatial orientations between SSEs.
+Figure 4: From 3D atom data to protein graph. The 3D atom coordinates and the secondary structure assignments are used to compute contacts between secondary structure elements (SSEs). In the final cell graph, each vertex represents an SSE, and edges model spatial contacts and relative spatial orientations between SSEs.
 </figcaption>
 
 # Education
