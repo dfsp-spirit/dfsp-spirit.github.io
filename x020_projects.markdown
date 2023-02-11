@@ -13,7 +13,7 @@ I am currently a scientific software developer in the [lab of Prof. Dr. Pascal F
 Figure 1: Visualization of electrophysiological data, created with Syncopy.
 </figcaption>
 
-</br></br>
+<br/><br/>
 
 ### Ecker Lab, University Hospital Frankfurt
 
@@ -25,7 +25,7 @@ and Adolescent Psychiatry, Psychosomatics and Psychotherapy in the [group of Pro
 Figure 2: Visualiation of sMRI neuroimaging data, created with fsbrain. A Visualization of raw morphometry data (cortical thickness) from native space on the white surface of a subject. The view shows the data in tiles from 8 different angles. B Arbitrary data (p-values in this case) visualized on the regions of the Desikan atlas, using the surface of the fsaverage (standard space template) subject from FreeSurfer. The view shows the data in tiles from 4 different angles. C The regions of the Desikan atlas on the white surface of a subject. The colors were loaded from the respective annotation file.
 </figcaption>
 
-</br></br>
+<br/><br/>
 
 ## Molecular Health GmbH, Heidelberg
 
@@ -33,14 +33,14 @@ I worked as a scientific software developer at Molecular Health, a bioinformatic
 
 I worked on an internal application for data curation based on Python and React.js, and on a high-throughput natural language processing system.
 
-</br></br>
+<br/><br/>
 
 ### Koch Lab, Goethe University Frankfurt am Main
 
 
 I finished my doctorate in the [lab of Prof. Dr. Ina Koch](http://www.bioinformatik.uni-frankfurt.de) in 2016 and mainly worked on the following two projects in the fields of digital pathology and structural biology:
 
-</br>
+<br/><br/>
 
 ### Digital pathology: The spatial distribution of immune cells in Hodgkin lymphoma
 
@@ -54,7 +54,7 @@ We used graphs to model and compare spatial cell distributions in different Hodg
 Figure 3: Part of a whole slide image from a Hodgkin lymphoma case. Cell nuclei are stained in blue, and CD30+ cells in red. A cell graph is displayed as an overlay. Each vertex represents a cell detected by our imaging pipeline. Edges are added between cells which are close to each other. The graphs can be used to quantify clustering and to compare cell distributions.
 </figcaption>
 
-</br>
+<br/>
 
 ### Structural biology: The new Protein Topology Graph Library (PTGL) webserver
 
@@ -67,7 +67,7 @@ VPLG is free software and available from the [PTGL project website at GitHub](ht
 Figure 4: From 3D atom data to protein graph. The 3D atom coordinates and the secondary structure assignments are used to compute contacts between secondary structure elements (SSEs). In the final cell graph, each vertex represents an SSE, and edges model spatial contacts and relative spatial orientations between SSEs.
 </figcaption>
 
-</br></br>
+<br/><br/>
 
 ## Education
 
@@ -75,3 +75,4 @@ Figure 4: From 3D atom data to protein graph. The 3D atom coordinates and the se
   - Supervisor: [Prof. Dr. Ina Koch](http://www.bioinformatik.uni-frankfurt.de)
   - [Department of Molecular Bioinformatics](http://www.bioinformatik.uni-frankfurt.de), [Goethe University Frankfurt am Main](https://www.goethe-university-frankfurt.de), Germany
   - Thesis: *Application of graph theory to the topologies of proteins and Hodgkin lymphoma.* Goethe University Frankfurt, Germany, 2016.
+
