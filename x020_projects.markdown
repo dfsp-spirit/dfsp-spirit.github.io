@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects
 ---
 
-## Fries Lab, Ernst Strüngmann Institute (ESI) for Neuroscience
+### Fries Lab, Ernst Strüngmann Institute (ESI) for Neuroscience
 
 I am currently a scientific software developer in the [lab of Prof. Dr. Pascal Fries](https://www.esi-frankfurt.de/people/pascalfries/) at [ESI](https://www.esi-frankfurt.de/), working on the [Syncopy Python package](https://github.com/esi-neuroscience/syncopy) for electrophysiology data analysis (MEG, EEG, ECoG). Syncopy aims to be easy-to-use, with an interface similar to Fieldtrip, the standard Matlab package for the analysis of electrophysiology data. Syncopy is designed for large-scale data anaylysis and parallel computations, and can utilize multi-core machines and high-performance computing (HPC) systems like clusters running the Slurm job scheduler.
 
@@ -27,7 +27,7 @@ Figure 2: Visualiation of sMRI neuroimaging data, created with fsbrain. A Visual
 
 <br/><br/>
 
-## Molecular Health GmbH, Heidelberg
+### Molecular Health GmbH, Heidelberg
 
 I worked as a scientific software developer at Molecular Health, a bioinformatics company that produces software solutions for precision medicine, with the goal to make the latest research available to clinicians based on AI and curated data from publications.
 
@@ -42,7 +42,7 @@ I finished my doctorate in the [lab of Prof. Dr. Ina Koch](http://www.bioinforma
 
 <br/><br/>
 
-### Digital pathology: The spatial distribution of immune cells in Hodgkin lymphoma
+#### Digital pathology: The spatial distribution of immune cells in Hodgkin lymphoma
 
 
 In this project, I worked on the analysis of Hodgkin lymphoma, a cancer of the lymphatic system, based on high-resolution images. We were interested in better understanding the way tumour cells interact with their environment, communicate and spread through the lymphatic system. We implemented a digital image analysis pipeline to perform cell detection, description and classification.
@@ -56,7 +56,7 @@ Figure 3: Part of a whole slide image from a Hodgkin lymphoma case. Cell nuclei 
 
 <br/>
 
-### Structural biology: The new Protein Topology Graph Library (PTGL) webserver
+#### Structural biology: The new Protein Topology Graph Library (PTGL) webserver
 
 My diploma thesis dealt with modeling protein structure topologies by graph-theoretical methods. A part of the thesis was the development of the <a href="http://www.bioinformatik.uni-frankfurt.de/tools/vplg/index.html">Visualization of Protein Ligand Graphs (VPLG) software</a>. VPLG computes and visualizes protein ligand graphs. It works on the super-secondary structure level and uses the atom coordinates from PDB files and the SSE assignments of the DSSP algorithm. The graphs can be saved to a database or exported in standard graph formats for further analysis.
 
@@ -69,7 +69,7 @@ Figure 4: From 3D atom data to protein graph. The 3D atom coordinates and the se
 
 <br/><br/>
 
-## Education
+# Education
 
 * PhD (Dr. rer. nat.), Bioinformatics, summa cum laude
   - Supervisor: [Prof. Dr. Ina Koch](http://www.bioinformatik.uni-frankfurt.de)
