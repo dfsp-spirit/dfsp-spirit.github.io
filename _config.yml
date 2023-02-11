@@ -26,9 +26,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dfsp-spirit.github.io"
 github_username: dfsp-spirit
-orcid: 0000-0002-3683-8070
-researchgate: Tim_Schaefer
-google_scholar: VNkzzhgAAAAJ
+orcid_username: 0000-0002-3683-8070
+researchgate_username: Tim_Schaefer
+googlescholar_username: VNkzzhgAAAAJ
 
 # Build settings
 theme: minima
