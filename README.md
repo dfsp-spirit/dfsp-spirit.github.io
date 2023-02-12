@@ -1,7 +1,7 @@
 # dfsp-spirit.github.io
 My personal website, generated with Jekyll.
 
-This is my new website. The website is build with Jekyll, a static site generator written in Ruby. The current state from this repository is always visible at [dfsp-spirit.github.io](https://dfsp-spirit.github.io/). This is now also served from [rcmd.org/ts](https://rcmd.org/ts/) via a DNS CNAME record.
+This is my new website. The website is build with Jekyll, a static site generator written in Ruby. The current state from this repository is always visible at [dfsp-spirit.github.io](https://dfsp-spirit.github.io/). This is now also served from [ts.rcmd.org](https://ts.rcmd.org/) via a DNS CNAME record.
 
 The advantage of this website over my old, homebrew HTML solution is that it is more mobile friendly and looks a bit more professional. The disadvantage is a more complicated setup, and that it requires Ruby at generation time (not at runtime).
 
