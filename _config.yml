@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   engineer based in Frankfurt am Main, Germany.
 baseurl: "" # the subpath of your site, e.g. /blog
 email: "ts+code@rcmd.org"
-url: "dfsp-spirit.github.io"
+url: "ts.rcmd.org"
 github_username: dfsp-spirit
 orcid_username: 0000-0002-3683-8070
 researchgate_username: Tim_Schaefer
