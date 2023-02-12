@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Projects"
-permalink: /projects
+permalink: /projects.html
 ---
 
 ### Fries Lab, Ernst Strüngmann Institute (ESI) for Neuroscience
