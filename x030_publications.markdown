@@ -28,7 +28,7 @@ Viola Hollestein 1 ✉, Geert Poelmans 2, Natalie J. Forde1, Christian F. Beckma
 ## Preprints and Other Articles (Non-Peer Reviewed)
 
 * Viola Hollestein, Geert Poelmans, Natalie J Forde, Christian F Beckmann, Christine Ecker, Caroline Mann, **Tim Schäfer**,..., Jilly Naaijen. (2021) *Excitatory/inhibitory imbalance in autism: the role of glutamate and GABA gene-sets in symptoms and cortical brain structure.* [DOI: 10.1101/2021.12.20.473501](https://doi.org/10.1101/2021.12.20.473501)
-* **Tim Schäfer** and Christine Ecker. (2020) *fsbrain: an R package for the visualization of structural neuroimaging data.* Preprint at biorxiv
+* **Tim Schäfer** and Christine Ecker. (2020) *fsbrain: an R package for the visualization of structural neuroimaging data.* Preprint at biorxiv. [DOI: 10.1101/2020.09.18.302935](https://doi.org/10.1101/2020.09.18.302935)
 * Jennifer Scheidel, Hendrik Schäfer, Jörg Ackermann, Marie Hebel, **Tim Schäfer**, Claudia Döring, Sylvia Hartmann, Martin-Leo Hansmann, and Ina Koch. *Bioinformatics analysis quantifies neighborhood preferences of cancer cells in Hodgkin lymphoma.* [DOI: 10.1101/228981](https://doi.org/10.1101/228981)
 * Alexander Schmitz, **Tim Schäfer**, Hendrik Schäfer, Claudia Döring, Jörg Ackermann, Norbert Dichter, Sylvia Hartmann, Martin-Leo Hansmann, and Ina Koch. *Automated Image Analysis of Hodgkin lymphoma.* Dagstuhl Seminar 12291 "Structure Discovery in Biology: Motifs, Networks & Phylogenies". [DOI: 10.48550/arXiv.1209.3189](https://doi.org/10.48550/arXiv.1209.3189)
 
