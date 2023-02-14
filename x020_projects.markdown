@@ -22,16 +22,16 @@ and Adolescent Psychiatry, Psychosomatics and Psychotherapy in the [group of Pro
 
 <img style="" src="assets/img/fsbrain_vis_overview.jpg" alt="sMRI descriptor visualization" width="70%">
 <figcaption>
-Figure 2: Visualiation of sMRI neuroimaging data, created with fsbrain. A Visualization of raw morphometry data (cortical thickness) from native space on the white surface of a subject. The view shows the data in tiles from 8 different angles. B Arbitrary data (p-values in this case) visualized on the regions of the Desikan atlas, using the surface of the fsaverage (standard space template) subject from FreeSurfer. The view shows the data in tiles from 4 different angles. C The regions of the Desikan atlas on the white surface of a subject. The colors were loaded from the respective annotation file.
+Figure 2: Visualiation of sMRI neuroimaging data, created with my [fsbrain package for R](https://github.com/dfsp-spirit/fsbrain). (A) Visualization of raw morphometry data (cortical thickness) from native space on the white surface of a subject. The view shows the data in tiles from 8 different angles. (B) Arbitrary data (p-values in this case) visualized on the regions of the Desikan atlas, using the surface of the fsaverage (standard space template) subject from FreeSurfer. The view shows the data in tiles from 4 different angles. (C) The regions of the Desikan atlas on the white surface of a subject. The colors were loaded from the respective annotation file.
 </figcaption>
 
 <br/><br/>
 
 ### Molecular Health GmbH, Heidelberg
 
-I worked as a scientific software developer at Molecular Health, a bioinformatics company that produces software solutions for precision medicine, with the goal to make the latest research available to clinicians based on AI and curated data from publications.
+I worked as a scientific software developer at [Molecular Health](https://www.molecularhealth.com), a bioinformatics company that produces software solutions for precision medicine, with the goal to make the latest research available to clinicians based on AI and curated data from publications.
 
-I worked on an internal application for data curation based on Python and React.js, and on a high-throughput natural language processing system.
+The main project was an internal web application for biomedical data curation based on Python, [PostgreSQL](https://www.postgresql.org/) and [SQLAlchemy](https://www.sqlalchemy.org/) for the backend and [React.js](https://reactjs.org/) for the frontend. Another project was a high-throughput natural language processing system, which used Perl to orchestrate interdependent jobs in compute pipelines running on an HPC cluster.
 
 <br/><br/>
 
@@ -47,7 +47,7 @@ I finished my doctorate in the [lab of Prof. Dr. Ina Koch](http://www.bioinforma
 
 In this project, I worked on the analysis of Hodgkin lymphoma, a cancer of the lymphatic system, based on high-resolution images. We were interested in better understanding the way tumour cells interact with their environment, communicate and spread through the lymphatic system. We implemented a digital image analysis pipeline to perform cell detection, description and classification.
 
-We used graphs to model and compare spatial cell distributions in different Hodgkin lymphoma subtypes as well as lymphadenitis. The project is a collaboration with Prof. Dr. Dr. h.c. Martin-Leo Hansmann(https://de.wikipedia.org/wiki/Martin-Leo_Hansmann") at the [Senckenberg Institute of Pathology](https://www.kgu.de/pathologie) at [University Hospital Frankfurt](https://kgu.de).
+We used graphs to model and compare spatial cell distributions in different Hodgkin lymphoma subtypes as well as lymphadenitis. The project is a collaboration with [Prof. Dr. Dr. h.c. Martin-Leo Hansmann](https://de.wikipedia.org/wiki/Martin-Leo_Hansmann") at the [Senckenberg Institute of Pathology](https://www.kgu.de/pathologie) at [University Hospital Frankfurt](https://kgu.de).
 
 <img style="" src="assets/img/cellgraph.jpg" alt="Cellgraph" width="70%">
 <figcaption>
