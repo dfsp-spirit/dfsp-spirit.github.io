@@ -18,7 +18,7 @@ Figure 1: Visualization of electrophysiological data, created with Syncopy.
 ### Ecker Lab, University Hospital Frankfurt
 
 I was a postdoc in Computational Neuroimaging at [University Hospital Frankfurt](https://kgu.de) in the Department of Child
-and Adolescent Psychiatry, Psychosomatics and Psychotherapy in the [group of Prof. Dr. Christine Ecker](https://www.kgu.de/einrichtungen/kliniken/zentrum-fuer-psychische-gesundheit/psychiatrie-psychosomatik-und-psychotherapie-des-kindes-und-jugendalters/forschung/laboratory-of-neuroimaging) from 03/2018 - 04/2022. We used structural magnetic resonance imaging (sMRI) in combination with genetic data to better understand the mechanisms of autism spectrum disorders. We applied statistical and machine learning methods implemented in R, Python and Matlab to surface-based cortical reconstructions generated with [FreeSurfer](http://freesurfer.net).
+and Adolescent Psychiatry, Psychosomatics and Psychotherapy in the [group of Prof. Dr. Christine Ecker](https://www.kgu.de/einrichtungen/kliniken/zentrum-fuer-psychische-gesundheit/psychiatrie-psychosomatik-und-psychotherapie-des-kindes-und-jugendalters/forschung/laboratory-of-neuroimaging) from 03/2018 - 04/2022. We used structural magnetic resonance imaging (sMRI) in combination with genetic data to better understand the mechanisms of autism spectrum disorders, and the complex interplay of neuroanatomy and brain function. We applied statistical and machine learning methods implemented in R, Python and Matlab to surface-based cortical reconstructions generated with [FreeSurfer](http://freesurfer.net).
 
 <img style="" src="assets/img/fsbrain_vis_overview.jpg" alt="sMRI descriptor visualization" width="70%">
 <figcaption>
