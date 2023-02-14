@@ -45,7 +45,7 @@ I finished my doctorate in the [lab of Prof. Dr. Ina Koch](http://www.bioinforma
 #### Digital pathology: The spatial distribution of immune cells in Hodgkin lymphoma
 
 
-In this project, I worked on the analysis of Hodgkin lymphoma, a cancer of the lymphatic system, based on high-resolution images. We were interested in better understanding the way tumour cells interact with their environment, communicate and spread through the lymphatic system. We implemented a digital image analysis pipeline to perform cell detection, description and classification.
+In this project, I worked on the analysis of Hodgkin lymphoma, a cancer of the lymphatic system, based on high-resolution images. We were interested in better understanding the way tumour cells interact with their environment, communicate and spread through the lymphatic system. We implemented a digital image analysis pipeline to perform cell detection, description and classification with the goal to aid pathologists during the diagnosis of the various sub types of lymphoma.
 
 We used graphs to model and compare spatial cell distributions in different Hodgkin lymphoma subtypes as well as lymphadenitis. The project is a collaboration with [Prof. Dr. Dr. h.c. Martin-Leo Hansmann](https://de.wikipedia.org/wiki/Martin-Leo_Hansmann") at the [Senckenberg Institute of Pathology](https://www.kgu.de/pathologie) at [University Hospital Frankfurt](https://kgu.de).
 
