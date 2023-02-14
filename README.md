@@ -9,13 +9,13 @@ I decided that this pros outweight the cons, especially since GitHub takes away 
 
 ## First time installation
 
-I installed Ruby and bundler first.
+I installed [Ruby](https://www.ruby-lang.org/en/) and [bundler](https://bundler.io/) first. This can be quite a pain, depending on which version of Ruby your distribution ships with. I would highly recommend to ignore that version entirely and use [rbenv](https://github.com/rbenv/rbenv) to install your own Ruby version. I tried with the Ruby version that can with Ubuntu 22.04 and encountered one error after another when trying to install jekyll, until I gave up. Do yourself a favor and use `rbenv` from the start. Once you have Ruby installed, installation of [bundler](https://bundler.io/) is easy (though for some reason no installation instructions could be found on their website at the time of writing): `gem install bundler`.
 
-The, in the repo, make bundler install all the dependencies:
+Then, in the repo, make bundler install all the dependencies:
 
 ```shell
 cd repo/
-bundle
+bundle  # that Note it's bundle, not bundler. This will install jekyll and everything in the Gemfile.
 ```
 
 ## Building the website
