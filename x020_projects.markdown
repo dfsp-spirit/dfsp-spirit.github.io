@@ -58,7 +58,7 @@ Figure 3: Part of a whole slide image from a Hodgkin lymphoma case. Cell nuclei 
 
 #### Structural biology: The new Protein Topology Graph Library (PTGL) webserver
 
-My diploma thesis dealt with modeling protein structure topologies by graph-theoretical methods. A part of the thesis was the development of the <a href="http://www.bioinformatik.uni-frankfurt.de/tools/vplg/index.html">Visualization of Protein Ligand Graphs (VPLG) software</a>. VPLG computes and visualizes protein ligand graphs. It works on the super-secondary structure level and uses the atom coordinates from PDB files and the SSE assignments of the DSSP algorithm. The graphs can be saved to a database or exported in standard graph formats for further analysis.
+My diploma thesis dealt with modeling protein structure topologies by graph-theoretical methods. A part of the thesis was the development of the <a href="http://www.bioinformatik.uni-frankfurt.de/tools/vplg/index.html">Visualization of Protein Ligand Graphs (VPLG) software</a>. VPLG computes and visualizes protein ligand graphs. It works on the super-secondary structure level and uses the atom coordinates from PDB files and the SSE assignments of the DSSP algorithm. The graphs can be saved to a database or exported in standard graph formats for further analysis, including protein structure comparison and evolutionary studies.
 
 VPLG is free software and available from the [PTGL project website at GitHub](https://github.com/MolBIFFM/PTGLtools). It powers the [PTGL protein topology database](http://ptgl.uni-frankfurt.de), a web server which also supports motif detection and other advanced queries based on the graphs computed for all proteins of the RCSB Protein Data Bank.
 
