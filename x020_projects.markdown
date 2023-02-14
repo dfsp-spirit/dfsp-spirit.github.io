@@ -6,7 +6,7 @@ permalink: /projects.html
 
 ### Fries Lab, Ernst Strüngmann Institute (ESI) for Neuroscience
 
-I am currently a scientific software developer in the [lab of Prof. Dr. Pascal Fries](https://www.esi-frankfurt.de/people/pascalfries/) at [ESI](https://www.esi-frankfurt.de/), working on the [Syncopy Python package](https://github.com/esi-neuroscience/syncopy) for electrophysiology data analysis (MEG, EEG, ECoG). Syncopy is easy-to-use, with an interface similar to Fieldtrip, the standard Matlab package for the analysis of electrophysiology data. Syncopy is designed for large-scale data anaylysis and parallel computations, and can utilize multi-core machines and high-performance computing (HPC) systems like clusters running the Slurm job scheduler.
+I am currently a scientific software developer in the [lab of Prof. Dr. Pascal Fries](https://www.esi-frankfurt.de/people/pascalfries/) at [ESI](https://www.esi-frankfurt.de/), working on the [Syncopy Python package](https://github.com/esi-neuroscience/syncopy) for electrophysiology data analysis (MEG, EEG, ECoG). Syncopy is easy-to-use, with an interface similar to [Fieldtrip](https://github.com/fieldtrip/fieldtrip), the standard Matlab package for the analysis of electrophysiology data. Syncopy is designed for large-scale data anaylysis and parallel computations, and can utilize multi-core machines and high-performance computing (HPC) systems like clusters running the Slurm job scheduler.
 
 <img style="" src="assets/img/syncopy_signals.png" alt="Electrophysiology data in Syncopy" width="70%">
 <figcaption>
@@ -22,7 +22,7 @@ and Adolescent Psychiatry, Psychosomatics and Psychotherapy in the [group of Pro
 
 <img style="" src="assets/img/fsbrain_vis_overview.jpg" alt="sMRI descriptor visualization" width="70%">
 <figcaption>
-Figure 2: Visualiation of sMRI neuroimaging data, created with my [fsbrain package for R](https://github.com/dfsp-spirit/fsbrain). (A) Visualization of raw morphometry data (cortical thickness) from native space on the white surface of a subject. The view shows the data in tiles from 8 different angles. (B) Arbitrary data (p-values in this case) visualized on the regions of the Desikan atlas, using the surface of the fsaverage (standard space template) subject from FreeSurfer. The view shows the data in tiles from 4 different angles. (C) The regions of the Desikan atlas on the white surface of a subject. The colors were loaded from the respective annotation file.
+Figure 2: Visualiation of sMRI neuroimaging data, created with my [fsbrain package for R](https://github.com/dfsp-spirit/fsbrain). <b>A</b> Visualization of raw morphometry data (cortical thickness) from native space on the white surface of a subject. The view shows the data in tiles from 8 different angles. (B) Arbitrary data (p-values in this case) visualized on the regions of the Desikan atlas, using the surface of the fsaverage (standard space template) subject from FreeSurfer. The view shows the data in tiles from 4 different angles. (C) The regions of the Desikan atlas on the white surface of a subject. The colors were loaded from the respective annotation file.
 </figcaption>
 
 <br/><br/>
@@ -40,7 +40,7 @@ The main project was an internal web application for biomedical data curation ba
 
 I finished my doctorate in the [lab of Prof. Dr. Ina Koch](http://www.bioinformatik.uni-frankfurt.de) in 2016 and mainly worked on the following two projects in the fields of digital pathology and structural biology:
 
-<br/><br/>
+<br/>
 
 #### Digital pathology: The spatial distribution of immune cells in Hodgkin lymphoma
 
