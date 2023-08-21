@@ -8,6 +8,8 @@ Here are my records on [ORCID](https://orcid.org/0000-0002-3683-8070) and [Googl
 
 ## Journal Articles (Peer reviewed)
 
+
+* Stephan Nebe,Mario Reutter, Daniel H Baker, Jens Bölte, Gregor Domes, Matthias Gamer, Anne Gärtner, Carsten Gießing, Caroline Gurr, Kirsten Hilger, Philippe Jawinski, Louisa Kulke, Alexander Lischke, Sebastian Markett, Maria Meier, Christian J Merz, Tzvetan Popov, Lara MC Puhlmann, Daniel S Quintana, **Tim Schäfer**, Anna-Lena Schubert, Matthias FJ Sperl, Antonia Vehlen, Tina B Lonsdorf, and Gordon B Feld. *Enhancing precision in human neuroscience.* eLife 12:e85980 (2023). [DOI: 10.7554/eLife.85980](https://doi.org/10.7554/eLife.85980)
 * Charlotte M. Pretzsch, Dorothea L. Floris, **Tim Schäfer**, Anke Bletsch, Caroline Gurr, Michael V. Lombardo,
 Chris H. Chatham, Julian Tillmann, Tony Charman, Martina Arenella, Emily Jones, Sara Ambrosino, Thomas Bourgeron, Guillaume Dumas, Freddy Cliquet, Claire S. Leblond, Eva Loth, Bethany Oakley, Jan K. Buitelaar, Simon Baron-Cohen, Christian F. Beckmann, Antonio M. Persico, Tobias Banaschewski, Sarah Durston,
 Christine M. Freitag, EU-AIMS/AIMS-2-TRIALS Consortium, Declan G. M. Murphy, and Christine Ecker. *Cross-sectional and longitudinal neuroanatomical profiles of distinct clinical (adaptive) outcomes in autism.* Molecular Psychiatry (2023). [DOI: 10.1038/s41380-023-02016-z](https://doi.org/10.1038/s41380-023-02016-z)
