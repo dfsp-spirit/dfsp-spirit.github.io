@@ -1,4 +1,4 @@
-# dfsp-spirit.github.io
+`# dfsp-spirit.github.io
 My personal website, generated with Jekyll.
 
 This is my new website. The website is build with [Jekyll](https://jekyllrb.com/), a static site generator written in Ruby.
@@ -20,13 +20,27 @@ Overall, I decided that the pros of outweight the cons for now. (And I was also 
 
 ## First time installation
 
-I installed [Ruby](https://www.ruby-lang.org/en/) and [bundler](https://bundler.io/) first. This can be quite a pain, depending on which version of Ruby your distribution ships with. I would highly recommend to ignore that version entirely and use [rbenv](https://github.com/rbenv/rbenv) to install your own Ruby version. I tried with the Ruby version that can with Ubuntu 20.04 and encountered one error after another when trying to install jekyll, until I gave up. Do yourself a favor and use `rbenv` from the start. Once you have Ruby installed, installation of [bundler](https://bundler.io/) is easy (though for some reason no installation instructions could be found on their website at the time of writing): `gem install bundler`.
+I installed [Ruby](https://www.ruby-lang.org/en/) and [bundler](https://bundler.io/) first. This can be quite a pain, depending on which version of Ruby your distribution ships with. I would highly recommend to ignore that version entirely and use [rbenv](https://github.com/rbenv/rbenv) to install your own Ruby version. I tried with the Ruby version that can with Ubuntu 20.04 and encountered one error after another when trying to install the latest jekyll version and its dependencies, until I gave up. Do yourself a favor and use `rbenv` from the start, even if it is also a bit annoying to setup. If you use bash and Ubuntu 22.04, what you have to do is:
+
+```shell
+git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+echo 'eval "$(~/.rbenv/bin/rbenv init - bash)"' >> ~/.bashrc
+bash    # to start a new bash with rbenv in the PATH.
+git clone https://github.com/rbenv/ruby-build.git "$(rbenv root)"/plugins/ruby-build  # Installs a plugin for the 'rbenv install' command.
+rbenv install -l   # lists latest stable Ruby versions. Pick one, then install it:
+rbenv install 3.1.4  # install a version
+rbenv global 3.1.4   # set installed version as default (global means in all directories, local would create an env in current folder only)
+```
+
+Note: On my laptop at work, the `rbenv install` command above failed on my work machine because `libssl-dev` was not available. Since I do not have root access, I had to ask the IT department to install it via `apt.` Ruby installation seems quite a pain, and I am already considering to move away from Jekyll because of it. I have no time to look for alternatives at this time, though.
+
+Once you have Ruby installed, installation of [bundler](https://bundler.io/) is possible via `gem`, which comes with Ruby (though for some reason no installation instructions could be found on their website at the time of writing, they seem to assume you are a Ruby programmer and aware of `gem`): `gem install bundler`.
 
 Then, in the repo, make bundler install all the dependencies:
 
 ```shell
 cd <local_repo_copy>/
-bundle  # Note that it's bundle, not bundler. This will install jekyll and everything in the Gemfile.
+bundle  # This will install jekyll and everything in the Gemfile.
 ```
 
 ## Updating / Building the website
