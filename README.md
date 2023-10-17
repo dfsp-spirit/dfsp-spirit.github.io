@@ -33,7 +33,11 @@ rbenv install 3.1.4  # install a version
 rbenv global 3.1.4   # set installed version as default (global means in all directories, local would create an env in current folder only)
 ```
 
-Note: On my laptop at work, the `rbenv install` command above failed on my work machine because `libssl-dev` was not available. Since I do not have root access, I had to ask the IT department to install it via `apt.` Ruby installation seems quite a pain, and I am already considering to move away from Jekyll because of it. I have no time to look for alternatives at this time, though.
+Note: On my laptop at work, the `rbenv install` command above failed on my work machine because `libssl-dev` and `zlib1g-dev` were not available. Since I do not have root access, I had to ask the IT department to install them via `apt.` Ruby installation seems quite a pain, and I am already considering to move away from Jekyll because of it. I have no time to look for alternatives at this time, though. If you have root, this will help:
+
+```shell
+sudo apt install libssl-dev zlib1g-dev
+```
 
 Once you have Ruby installed, installation of [bundler](https://bundler.io/) is possible via `gem`, which comes with Ruby (though for some reason no installation instructions could be found on their website at the time of writing, they seem to assume you are a Ruby programmer and aware of `gem`): `gem install bundler`.
 
