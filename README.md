@@ -59,4 +59,4 @@ cd <local_repo_copy>/
 bundle exec jekyll build
 ```
 
-Now you can upload the generated website in the `_site` directory to your webhost.
+Now you can upload the generated website in the `_site` directory to your webhost, e.g., via FTP.
