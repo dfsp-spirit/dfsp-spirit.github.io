@@ -3,7 +3,7 @@ title: "Welcome"
 layout: home
 ---
 
-This is the professional website of Tim Schäfer. I am a bioinformatician and neuroscientist. I currently work as a research software engineer in the [Fries Lab at ESI](https://www.esi-frankfurt.de/people/pascalfries/).
+This is the professional website of Tim Schäfer. I am a bioinformatician and neuroscientist. I currently work as a research software engineer in the Biodiversity Informatics group at [Senckenberg Society for Nature Research](https://senckenberg.de).
 
 <img style="float: right; padding: 0% 2%; " src="assets/img/ts.jpg" alt="Tim Schäfer" width="20%">
 
