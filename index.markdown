@@ -11,4 +11,4 @@ I have contributed to a range of open source projects and I am the author and ma
 
 I am especially interested in spatial geometry, 3D imaging, artificial intelligence and high-performance computing. You can find the source code for most of my software on [my GitHub profile](https://github.com/dfsp-spirit).
 
-You may be interested in my [projects](./projects), or the list of [my publications](./publications). If you're into the semantic web you may be interested in my <link rel="meta" type="application/rdf+xml" title="FOAF" href="foaf.rdf" />.
+You may be interested in my [projects](./projects), or the list of [my publications](./publications). If you're into the semantic web you may be interested in my <link rel="meta" type="application/rdf+xml" title="FOAF" href="foaf.rdf" >FOAF</>.
