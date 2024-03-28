@@ -3,7 +3,7 @@ title: "Welcome"
 layout: home
 ---
 
-This is the professional website of Tim Schäfer. I am a bioinformatician and neuroscientist. I currently work as a research software engineer in the Biodiversity Informatics group at [Senckenberg Society for Nature Research](https://senckenberg.de).
+This is the professional website of Tim Schäfer. I am a bioinformatician and neuroscientist. I currently work as a research software engineer in the Biodiversity Informatics group led by Claus Weiland at [Senckenberg Society for Nature Research](https://senckenberg.de).
 
 <img style="float: right; padding: 0% 2%; " src="assets/img/ts.jpg" alt="Tim Schäfer" width="20%">
 
@@ -11,4 +11,4 @@ I have contributed to a range of open source projects and I am the author and ma
 
 I am especially interested in spatial geometry, 3D imaging, artificial intelligence and high-performance computing. You can find the source code for most of my software on [my GitHub profile](https://github.com/dfsp-spirit).
 
-You may be interested in my [projects](./projects), or the list of [my publications](./publications). If you're into the semantic web you may be interested in my <a href="foaf.rdf" rel="meta" type="application/rdf+xml" title="FOAF">FOAF</a>.
+You may be interested in my [projects](./projects), or the list of [my publications](./publications).
