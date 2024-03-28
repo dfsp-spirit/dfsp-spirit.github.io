@@ -4,9 +4,14 @@ title: "Projects"
 permalink: /projects.html
 ---
 
+### Biodiversity Informatics Group, PI Claus Weiland, Senckenberg Society for Nature Research
+
+I am currently a scientific software engineer in the Biodiversity Informatics group of Claus Weiland working mainly on projects related to the NFDI4Earth. This is a German consortium of more than 60 partner organisations (universities, research institutes, and public organisations), and *"a community-driven process providing researchers with FAIR, coherent, and open access to all relevant Earth System data, to innovative research data management and data science methods"*, quoting the [NFDI4Earth website](https://www.nfdi4earth.de/). I am a member of the working group for the NFDI4Earth Community Label in the section [2Interoperate](https://nfdi4earth.de/2interoperate) and also involved in designing and implementing systems for the NFDI4Earth Knowledge Hub, the backend for the NFDI4Earth Portal based on a graph database with a SPARQL interface.
+
+
 ### Fries Lab, Ernst Strüngmann Institute (ESI) for Neuroscience
 
-I am currently a scientific software developer in the [lab of Prof. Dr. Pascal Fries](https://www.esi-frankfurt.de/people/pascalfries/) at [ESI](https://www.esi-frankfurt.de/), working on the [Syncopy Python package](https://github.com/esi-neuroscience/syncopy) for electrophysiology data analysis (MEG, EEG, ECoG). Syncopy is easy-to-use, with an interface similar to [Fieldtrip](https://github.com/fieldtrip/fieldtrip), the standard Matlab package for the analysis of electrophysiology data. Syncopy is designed for large-scale data anaylysis and parallel computations, and can utilize multi-core machines and high-performance computing (HPC) systems like clusters running the Slurm job scheduler.
+I was a scientific software developer in the [lab of Prof. Dr. Pascal Fries](https://www.esi-frankfurt.de/people/pascalfries/) at [ESI](https://www.esi-frankfurt.de/), working on the [Syncopy Python package](https://github.com/esi-neuroscience/syncopy) for electrophysiology data analysis (MEG, EEG, ECoG). Syncopy is easy-to-use, with an interface similar to [Fieldtrip](https://github.com/fieldtrip/fieldtrip), the standard Matlab package for the analysis of electrophysiology data. Syncopy is designed for large-scale data anaylysis and parallel computations, and can utilize multi-core machines and high-performance computing (HPC) systems like clusters running the Slurm job scheduler.
 
 <img style="" src="assets/img/syncopy_signals.png" alt="Electrophysiology data in Syncopy" width="70%">
 <figcaption>
