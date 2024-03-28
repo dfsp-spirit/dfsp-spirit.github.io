@@ -3,7 +3,7 @@ title: "Welcome"
 layout: home
 ---
 
-This is the professional website of Tim Schäfer. I am a bioinformatician and neuroscientist. I currently work as a research software engineer in the Biodiversity Informatics group led by Claus Weiland at [Senckenberg Society for Nature Research](https://senckenberg.de).
+This is the professional website of Tim Schäfer. I am a bioinformatician and neuroscientist. I currently work as a research software engineer in the Biodiversity Informatics group led by Claus Weiland at [Senckenberg Society for Nature Research](https://senckenberg.de), and I am involved in different projects of the [NFDI4Earth](https://www.nfdi4earth.de/).
 
 <img style="float: right; padding: 0% 2%; " src="assets/img/ts.jpg" alt="Tim Schäfer" width="20%">
 
