@@ -6,7 +6,7 @@ permalink: /projects.html
 
 ### Biodiversity Informatics Group, PI Claus Weiland, Senckenberg Society for Nature Research
 
-I am currently a scientific software engineer in the Biodiversity Informatics group of Claus Weiland working mainly on projects related to the NFDI4Earth. This is a German consortium of more than 60 partner organisations (universities, research institutes, and public organisations), and *"a community-driven process providing researchers with FAIR, coherent, and open access to all relevant Earth System data, to innovative research data management and data science methods"*, quoting the [NFDI4Earth website](https://www.nfdi4earth.de/). I am a member of the working group for the NFDI4Earth Community Label in the section [2Interoperate](https://nfdi4earth.de/2interoperate) and also involved in the NFDI4Earth Knowledge Hub, the backend for the NFDI4Earth Portal based on a graph database with a SPARQL interface.
+I am currently a scientific software engineer in the Biodiversity Informatics group of Claus Weiland working mainly on projects related to research data infrastructure and semantic modeling. In the context of to the [NFDI4Earth](https://www.nfdi4earth.de/), a consortium with the aim to improve FAIR access to research data in the earth system sciences (ESS), I am a member of the working group for the NFDI4Earth Community Label. The Label group works on developing and evaluating guidelines for ESS data repositories. Furthermore I am involved in the technical development of the NFDI4Earth Knowledge Hub, the backend for the NFDI4Earth Web Portal based on a knowledge graph managed in an [Apache Jena](https://jena.apache.org/) database.
 
 <br/><br/>
 
