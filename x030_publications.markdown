@@ -29,6 +29,8 @@ Here are my records on [ORCID](https://orcid.org/0000-0002-3683-8070) and [Googl
 
 ## Preprints and Other Articles (Non-Peer Reviewed)
 
+
+* Gregor Moenke, **Tim Schaefer**, Mohsen Parto-Dezfouli, Diljit Singh Kajal, Stefan Fuertinger, Joscha Tapani Schmiedt, and Pascal Fries. (2024) *Systems Neuroscience Computing in Python (SyNCoPy): A Python Package for Large-scale Analysis of Electrophysiological Data.* bioRxiv 2024.04.15.589590; [DOI: 10.1101/2024.04.15.589590](https://doi.org/10.1101/2024.04.15.589590)
 * Viola Hollestein, Geert Poelmans, Natalie J Forde, Christian F Beckmann, Christine Ecker, Caroline Mann, **Tim Schäfer**,..., Jilly Naaijen. (2021) *Excitatory/inhibitory imbalance in autism: the role of glutamate and GABA gene-sets in symptoms and cortical brain structure.* [DOI: 10.1101/2021.12.20.473501](https://doi.org/10.1101/2021.12.20.473501)
 * **Tim Schäfer** and Christine Ecker. (2020) *fsbrain: an R package for the visualization of structural neuroimaging data.* Preprint at biorxiv. [DOI: 10.1101/2020.09.18.302935](https://doi.org/10.1101/2020.09.18.302935)
 * Jennifer Scheidel, Hendrik Schäfer, Jörg Ackermann, Marie Hebel, **Tim Schäfer**, Claudia Döring, Sylvia Hartmann, Martin-Leo Hansmann, and Ina Koch. *Bioinformatics analysis quantifies neighborhood preferences of cancer cells in Hodgkin lymphoma.* [DOI: 10.1101/228981](https://doi.org/10.1101/228981)
