@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications.html
 ---
 
-Here are my records on [ORCID](https://orcid.org/0000-0002-3683-8070) and [Google Scholar](https://scholar.google.de/citations?user=VNkzzhgAAAAJ), which may be more up-to-date than this list.
+Here are my records on [ORCID](https://orcid.org/0000-0002-3683-8070) and [Google Scholar](https://scholar.google.de/citations?user=VNkzzhgAAAAJ).
 
 ## Journal Articles (Peer reviewed)
 
