@@ -12,7 +12,7 @@ I am currently a scientific software engineer in the Biodiversity Informatics gr
 
 ### Fries Lab, Ernst Strüngmann Institute (ESI) for Neuroscience
 
-I was a scientific software developer in the [lab of Prof. Dr. Pascal Fries](https://www.esi-frankfurt.de/people/pascalfries/) at [ESI](https://www.esi-frankfurt.de/), working on the [Syncopy Python package](https://github.com/esi-neuroscience/syncopy) for electrophysiology data analysis (MEG, EEG, ECoG). Syncopy is easy-to-use, with an interface similar to [Fieldtrip](https://github.com/fieldtrip/fieldtrip), the standard Matlab package for the analysis of electrophysiology data. Syncopy is designed for large-scale data anaylysis and parallel computations, and can utilize multi-core machines and high-performance computing (HPC) systems like clusters running the Slurm job scheduler.
+I was a scientific software developer in the [lab of Prof. Dr. Pascal Fries](https://www.esi-frankfurt.de/people/pascalfries/) at [ESI](https://www.esi-frankfurt.de/), working on the [Syncopy Python package](https://github.com/esi-neuroscience/syncopy) for electrophysiology data analysis (MEG, EEG, ECoG). Syncopy is easy-to-use, with an interface similar to [Fieldtrip](https://github.com/fieldtrip/fieldtrip), the standard Matlab package for the analysis of electrophysiology data. Syncopy is designed for large-scale data analyses and parallel computations, and can utilize multi-core machines and high-performance computing (HPC) systems like clusters running the Slurm job scheduler.
 
 <img style="" src="assets/img/syncopy_signals.png" alt="Electrophysiology data in Syncopy" width="70%">
 <figcaption>
