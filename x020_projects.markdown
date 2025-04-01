@@ -4,9 +4,16 @@ title: "Projects"
 permalink: /projects.html
 ---
 
+
+### Cognitive Neuropsychology Group, Fredrik Ullén, Max-Planck Institute for Empirical Aesthetics
+
+I recently started as a scientific software engineer in Cognitive Neuropsychology Lab at MPIAE. I am working on different project involving [PsyNet](https://gitlab.com/PsyNetDev/PsyNet) and in-house software written in Python, Rust, and JavaScript.
+
+<br/><br/>
+
 ### Biodiversity Informatics Group, PI Claus Weiland, Senckenberg Society for Nature Research
 
-I am currently a scientific software engineer in the Biodiversity Informatics group of Claus Weiland working mainly on projects related to research data infrastructure and semantic modeling. In the context of to the [NFDI4Earth](https://www.nfdi4earth.de/), a consortium with the aim to improve FAIR access to research data in the earth system sciences (ESS), I am a member of the working group for the NFDI4Earth Community Label. The Label group works on developing and evaluating guidelines for ESS data repositories. Furthermore I am involved in the technical development of the NFDI4Earth Knowledge Hub, the backend for the NFDI4Earth Web Portal based on a knowledge graph managed in an [Apache Jena](https://jena.apache.org/) database.
+I was a scientific software engineer in the Biodiversity Informatics group of Claus Weiland working mainly on projects related to research data infrastructure and semantic modeling. In the context of to the [NFDI4Earth](https://www.nfdi4earth.de/), a consortium with the aim to improve FAIR access to research data in the earth system sciences (ESS), I was a member of the working group for the NFDI4Earth Community Label. The Label group works on developing and evaluating guidelines for ESS data repositories. Furthermore I was involved in the technical development of the NFDI4Earth Knowledge Hub, the backend for the NFDI4Earth Web Portal based on a knowledge graph managed in an [Apache Jena Fuseki](https://jena.apache.org/) database.
 
 <br/><br/>
 
