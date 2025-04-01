@@ -44,7 +44,8 @@ Once you have Ruby installed, installation of [bundler](https://bundler.io/) is 
 Then, in the repo, make bundler install all the dependencies:
 
 ```shell
-cd <local_repo_copy>/
+git clone https://github.com/dfsp-spirit/dfsp-spirit.github.io
+cd dfsp-spirit.github.io/
 bundle  # This will install jekyll and everything in the Gemfile.
 ```
 
@@ -55,7 +56,7 @@ This is what you need to do after each change to the contents. It assumes that y
 Run jekyll to generate the website from the templates:
 
 ```shell
-cd <local_repo_copy>/
+# in your local local repo checkout of dfsp-spirit.github.io/
 bundle exec jekyll build
 ```
 
