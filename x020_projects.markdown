@@ -7,7 +7,7 @@ permalink: /projects.html
 
 ### Cognitive Neuropsychology Group, Fredrik Ullén, Max-Planck Institute for Empirical Aesthetics
 
-I recently started as a scientific software engineer in Cognitive Neuropsychology Lab at MPIAE. I am working on different project involving [PsyNet](https://gitlab.com/PsyNetDev/PsyNet) and in-house software written in Python, Rust, and JavaScript.
+I recently started as a scientific software engineer in Cognitive Neuropsychology Lab at MPIAE. I am working on different projects involving [PsyNet](https://gitlab.com/PsyNetDev/PsyNet) and in-house software written in Python, Rust, and JavaScript.
 
 <br/><br/>
 
