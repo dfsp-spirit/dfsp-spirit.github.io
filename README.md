@@ -6,13 +6,13 @@ This is my new website. The website is build with [Jekyll](https://jekyllrb.com/
 
 ## How the repo contents gets turned into the website
 
-The *current state of this repository* is always visible at [dfsp-spirit.github.io](https://dfsp-spirit.github.io/), but my real website at [ts.rcmd.org](https://ts.rcmd.org/) is **not** necessarily identical to that version. The version you see in this repo (and thus at `dfsp-spirit.github.io`) may be work in progress (WIP), that only gets released to `ts.rcmd.org` once it is ready. 
+The *current state of this repository* is always visible at [dfsp-spirit.github.io](https://dfsp-spirit.github.io/), but my real website at [ts.rcmd.org](https://ts.rcmd.org/) is **not** necessarily identical to that version. The version you see in this repo (and thus at `dfsp-spirit.github.io`) may be work in progress (WIP), that only gets released to `ts.rcmd.org` once it is ready.
 
 Once more, to make it clear: I only use a GitHub repo to store the raw data from which the site gets generated, and GitHub Pages (ghpages) to preview the WIP version. I decided against hosting the real website on ghpages, instead I build the site locally, and then upload the result to my own server. This means I also do not use ghpages-specific gems in my Gemfile. If one would like to deploy the website to ghpages, one should change this to get access to the Jekyll plugins/themes available on GitHub (see GitHub's official documentation on ghpages, and the commented out parts in the Gemfile).
 
 ## Pros and Cons
 
-The advantage of this Jekyll-based website over my old, homebrew HTML/CSS solution is that it is more mobile friendly and looks a bit more professional (usage of whitespace, font size scaling). The disadvantage is a more complicated setup that requires Ruby at generation time (not at runtime on the server, of course, it is just static HTML then). 
+The advantage of this Jekyll-based website over my old, homebrew HTML/CSS solution is that it is more mobile friendly and looks a bit more professional (usage of whitespace, font size scaling). The disadvantage is a more complicated setup that requires Ruby at generation time (not at runtime on the server, of course, it is just static HTML then).
 
 Overall, I decided that the pros of outweight the cons for now. (And I was also just sick of the old website.)
 
@@ -38,6 +38,8 @@ Note: On my laptop at work, the `rbenv install` command above failed on my work 
 ```shell
 sudo apt install libssl-dev zlib1g-dev
 ```
+
+UPDATE: More recent ruby versions (I tried 3.4.6 in 2025) also require: `sudo apt install libyaml-dev` for the psych extension that gets build by default.
 
 Once you have Ruby installed, installation of [bundler](https://bundler.io/) is possible via `gem`, which comes with Ruby (though for some reason no installation instructions could be found on their website at the time of writing, they seem to assume you are a Ruby programmer and aware of `gem`): `gem install bundler`.
 
