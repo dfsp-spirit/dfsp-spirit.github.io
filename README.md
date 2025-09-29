@@ -41,6 +41,8 @@ sudo apt install libssl-dev zlib1g-dev
 
 UPDATE: More recent ruby versions (I tried 3.4.6 in 2025) also require: `sudo apt install libyaml-dev` for the psych extension that gets build by default.
 
+UPDATE2: Building the website fails with weird errors under ruby v3.4.6, but works under v3.2.0, which is still supported, so use that for now.
+
 Once you have Ruby installed, installation of [bundler](https://bundler.io/) is possible via `gem`, which comes with Ruby (though for some reason no installation instructions could be found on their website at the time of writing, they seem to assume you are a Ruby programmer and aware of `gem`): `gem install bundler`.
 
 Then, in the repo, make bundler install all the dependencies:
