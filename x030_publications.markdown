@@ -8,6 +8,7 @@ Here are my records on [ORCID](https://orcid.org/0000-0002-3683-8070) and [Googl
 
 ## Journal Articles (Peer reviewed)
 
+
 * Gregor Mönke, **Tim Schäfer**, Mohsen Parto-Dezfouli, Diljit Singh Kajal, Stefan Fürtinger, Joscha Tapani Schmiedt and Pascal Fries (2024) *Systems Neuroscience Computing in Python (SyNCoPy): a python package for large-scale analysis of electrophysiological data.* Front. Neuroinform. 18:1448161. [doi: 10.3389/fninf.2024.1448161](https://doi.org/10.3389/fninf.2024.1448161)
 * Charlotte M. Pretzsch, Martina Arenella, Jason P. Lerch, Michael V. Lombardo, Christian Beckmann, **Tim Schäfer**, Johanna Leyhausen, Caroline Gurr, Anke Bletsch, Lisa M. Berg, Hanna Seelemeyer, Dorothea L. Floris, Bethany Oakley, Eva Loth, Thomas Bourgeron, Tony Charman, Jan Buitelaar, Grainne McAlonan, Declan Murphy, Christine Ecker, for the EU-AIMS LEAP Group. *Patterns of Brain Maturation in Autism and Their Molecular Associations* JAMA Psychiatry (2024). [DOI: 10.1001/jamapsychiatry.2024.3194
 ](https://doi.org/10.1001/jamapsychiatry.2024.3194)
@@ -52,6 +53,7 @@ Here are my records on [ORCID](https://orcid.org/0000-0002-3683-8070) and [Googl
 
 ## Posters and Conferences (Selection)
 
+* Kutscha, N., **Schäfer, T.**, van Welzen, K., de Manzano, Ö., & Ullén, F. (2026, May 9–14). *A 7T MRI-compatible piano for neuroscientific research* [Abstract]. Proceedings of the International Society for Magnetic Resonance in Medicine 34th Annual Meeting & Exhibition (ISMRM), Cape Town, South Africa. Abstract 271-01-015 / 568-01-002.
 * Hanna Seelemeyer, Caroline Mann, Lisa Berg, Johanna Leyhausen, Anke Bletsch, **Tim Schäfer**, Charlotte Pretzsch, Eva Loth, Jan Buitelaar, Tony Charman, Thomas Bourgeron, the EU-AIMS LEAP Consortium, Declan Murphy, Christine Ecker. *Symptom severity in the two DSM-V symptom domains is differentially associated with neuroanatomical and genomic underpinnings of autism spectrum disorder.* WTAS 2023, Freiburg, Deutschland, 2023.
 * **Tim Schäfer** and Christine Ecker. *Managing and Visualizing Freesurfer Neuroimaging Data in R – the Freesurferformats and Fsbrain Packages.* INSAR 2020 Annual Meeting, (virtual), June 3 (2020). [Abstract](https://insar.confex.com/insar/2020/meetingapp.cgi/Paper/33181), [ePoster](https://insar.confex.com/insar/2020/techdemo/eposter.cgi?eposterid=227).
 * **Tim Schäfer**, Caroline Mann, Anke Bletsch, Eva Loth, Declan Murphy, Jan Buitelaar, Tony Charman, Tobias Banaschewski, Simon Baron-Cohen, Sven Bölte, Sarah Durston, the EU-AIMS LEAP consortium and Christine Ecker. *Atypical Scaling Between the Inner and Outer Curvature of the Brain in Autism Spectrum Disorder.* OHBM 2019, Rome, Italy, June 9-13 (2019).
