@@ -47,7 +47,7 @@ Here are my records on [ORCID](https://orcid.org/0000-0002-3683-8070) and [Googl
 * **Tim Schäfer**, Caroline Mann, Anke Bletsch, Eva Loth, Declan Murphy, Jan Buitelaar, Tony Charman, Tobias Banaschewski, Simon Baron-Cohen, Sven Bölte, Sarah Durston, the EU-AIMS LEAP consortium and Christine Ecker. *Atypical Scaling Between the Inner and Outer Curvature of the Brain in Autism Spectrum Disorder.* INSAR Annual Meeting 2019, Montreal, Canada, May 1-4 (2019).
 * **Tim Schäfer**, Patrick May, and Ina Koch. *Computation and Visualization of Protein Topology Graphs including ligand information.* Talk at German Conference on Bioinformatics 2012, Jena, Germany. Slides: [@figshare](http://figshare.com/articles/Computation_and_visualization_of_protein_topology_graphs_including_ligands/833852), [@f1000](http://f1000.com/posters/browse/summary/1094507).
 * **Tim Schäfer**, Hendrik Schäfer, Jörg Ackermann, Norbert Dichter, Claudia Döring, Sylvia Hartmann, Martin-Leo Hansmann, and Ina Koch. *Analysis of the distribution of CD30+ cells in classical Hodgkin lymphoma and Lymphadenitis using graph-based methods.* Talk at 99. Jahrestagung der Deutschen Gesellschaft für Pathologie, Frankfurt am Main, Germany (2015). [Slides @figshare.](http://figshare.com/articles/Analysis_of_the_distribution_of_CD30_cells_in_classical_Hodgkin_lymphoma_and_Lymphadenitis_using_graph_based_methods/1560069), Abstract published in ['Der Pathologe'. Edition 36, Supplement 1, May 2015 (PDF)](http://www.pathologie-dgp.de/media/Dgp/downloads/Rubrik_Downloads/Abstractband_patho15.pdf).
-* **Tim Schäfer**, Hendrik Schäfer, Jörg Ackermann, Norbert Dichter, Claudia Döring, Sylvia Hartmann, Martin-Leo Hansmann, and Ina Koch. *CD30 cell graphs of Hodgkin lymphoma are not scale-free -- an image analysis approach.* Highlight talk at Intelligent Systems for Molecular Biology 2016. Orlando, FL, USA. [Slides @slideshare.](http://www.slideshare.net/TimSchfer4/schaefertp105)
+* **Tim Schäfer**, Hendrik Schäfer, Jörg Ackermann, Norbert Dichter, Claudia Döring, Sylvia Hartmann, Martin-Leo Hansmann, and Ina Koch. *CD30 cell graphs of Hodgkin lymphoma are not scale-free -- an image analysis approach.* Highlight talk at Intelligent Systems for Molecular Biology 2016. Orlando, FL, USA. [Slides @slideshare.](http://www.slideshare.net/TimSchfer4/schaefertp105), [Video of the talk, ISMB 2016 Highlights Series, on the ISCB Youtube Channel](https://www.youtube.com/watch?v=iOrCYEAxU0k)
 
 
 
@@ -68,3 +68,9 @@ Here are my records on [ORCID](https://orcid.org/0000-0002-3683-8070) and [Googl
 * **Tim Schäfer**, Patrick May and Ina Koch. *Analysis of protein topology by graph theoretical methods.* German Conference on Bioinformatics 2011. Weihenstephan, Germany, September 7-9 (2011).
 * A. Schmitz, **T. Schäfer**, H. Schäfer, C. Döring, J. Ackermann, N. Dichter, S. Hartmann, M.-L. Hansmann, and I. Koch. *Automated Image Analysis of Hodgkin lymphoma.* German Conference on Bioinformatics, Jena, Germany, September 19-22 (2012). [Slides @figshare.](http://figshare.com/articles/Automated_Image_Analysis_of_Hodgkin_Lymphoma/831471)
 
+
+
+## Awards and Fellowships
+
+* **Annual Meeting Planning Committee Selection Award**, International Society for Magnetic Resonance in Medicine (ISMRM) (2026). Awarded for the abstract: *"A 7T MRI-Compatible Piano for Neuroscientific Research"* at the ISMRM-ISMRT Annual Meeting, Cape Town, South Africa. (See Posters and Conferences above.) [Award certificate](./abstracts/ismrm2026_capetown_abstract_award_certificate.pdf).
+* **Travel Grant** ($1,000), ISMB 2016, Orlando, FL. Awarded by the International Society for Computational Biology to present *Graph-based analysis of CD30+ cell distributions in Hodgkin Lymphoma.* (see Talks above).
