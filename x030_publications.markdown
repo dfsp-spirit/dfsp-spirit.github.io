@@ -72,5 +72,5 @@ Here are my records on [ORCID](https://orcid.org/0000-0002-3683-8070) and [Googl
 
 ## Awards and Fellowships
 
-* **Annual Meeting Planning Committee Selection Award**, International Society for Magnetic Resonance in Medicine (ISMRM) (2026). Awarded for the abstract: *"A 7T MRI-Compatible Piano for Neuroscientific Research"* at the ISMRM-ISMRT Annual Meeting, Cape Town, South Africa. (See Posters and Conferences above.) [Award certificate](./abstracts/ismrm2026_capetown_abstract_award_certificate.pdf).
+* **Annual Meeting Planning Committee Selection Award**, International Society for Magnetic Resonance in Medicine (ISMRM) (2026). Awarded for the abstract: *"A 7T MRI-Compatible Piano for Neuroscientific Research"* at the ISMRM-ISMRT Annual Meeting, Cape Town, South Africa. (See Posters and Conferences above.) [Award certificate](./assets/ismrm2026_capetown_abstract_award_certificate.pdf).
 * **Travel Grant** ($1,000), ISMB 2016, Orlando, FL. Awarded by the International Society for Computational Biology to present *Graph-based analysis of CD30+ cell distributions in Hodgkin Lymphoma.* (see Talks above).
